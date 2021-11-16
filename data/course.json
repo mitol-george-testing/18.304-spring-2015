@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "08239700-ce43-5cb8-56d0-db29220e4cd6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Undergraduate Seminar in Discrete Mathematics",
+  "course_description": "This course is a student-presented seminar in combinatorics, graph theory, and discrete mathematics in general. Instruction and practice in written and oral communication is emphasized, with participants reading and presenting papers from recent mathematics literature and writing a final paper in a related topic.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.304",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
